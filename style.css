@@ -101,6 +101,25 @@ h1 {
 
 /*recipie section end*/
 
+/*call-to-action section end*/
+
+.call-to-action {
+  text-align: center;
+  background-image: url(images/food/pexels-daria-shevtsova-1095550.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.call-to-action-content {
+  padding-top: 50px;
+}
+
+/*call-to-action section end*/
+
 /*counter section start*/
 .counter {
   display: flex;
@@ -110,6 +129,7 @@ h1 {
   border-radius: 25px;
   margin-top: 50px;
   margin-bottom: 100px;
+  margin-top: 100pxg;
 }
 .counter-content-1 {
   width: 33%;
